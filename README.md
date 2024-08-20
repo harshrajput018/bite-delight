@@ -6,7 +6,7 @@
 
 This project is a responsive website for **Bite Delight**, a fictional restaurant. The website is built using React and provides a seamless user experience across all devices, including desktops, tablets, and mobile phones.
 
-![ezgif com-crop](https://github.com/user-attachments/assets/ca45c48d-ec0c-4c18-b67c-018eb39878d3)
+![ezgif com-crop (1)](https://github.com/user-attachments/assets/056314e4-e1a6-4e17-983f-871dda987ea3)
 
 
 ## Features
@@ -16,7 +16,7 @@ This project is a responsive website for **Bite Delight**, a fictional restauran
 - **About Us:** Provides information about the restaurant's story, values, and team.
 - **Location & Contact:** Displays the restaurant's location.
 - **Gallery:** A visual gallery of the restaurant's ambiance and dishes.
-- **Online Reservations:** Allows users to book a table online (optional feature).
+- **Online Reservations:** Allows users to book a table online.
 
 ## Tech Stack
 
