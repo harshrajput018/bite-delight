@@ -14,7 +14,7 @@ This project is a responsive website for **Bite Delight**, a fictional restauran
 - **Responsive Design:** The website adapts to different screen sizes, ensuring a smooth browsing experience on desktops, tablets, and mobile devices.
 - **Menu Display:** Showcases the restaurant's menu with categories for easy navigation.
 - **About Us:** Provides information about the restaurant's story, values, and team.
-- **Location & Contact:** Displays the restaurant's location on an interactive map, along with contact information and a contact form.
+- **Location & Contact:** Displays the restaurant's location.
 - **Gallery:** A visual gallery of the restaurant's ambiance and dishes.
 - **Online Reservations:** Allows users to book a table online (optional feature).
 
