@@ -1,70 +1,80 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# Bite Delight - Restaurant Website
 
-### `npm start`
+This project is a responsive website for **Bite Delight**, a fictional restaurant. The website is built using React and provides a seamless user experience across all devices, including desktops, tablets, and mobile phones.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![ezgif com-crop (1)](https://github.com/user-attachments/assets/056314e4-e1a6-4e17-983f-871dda987ea3)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Responsive Design:** The website adapts to different screen sizes, ensuring a smooth browsing experience on desktops, tablets, and mobile devices.
+- **Menu Display:** Showcases the restaurant's menu with categories for easy navigation.
+- **About Us:** Provides information about the restaurant's story, values, and team.
+- **Location & Contact:** Displays the restaurant's location.
+- **Gallery:** A visual gallery of the restaurant's ambiance and dishes.
+- **Online Reservations:** Allows users to book a table online.
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **React:** JavaScript library for building user interfaces.
+- **React Router:** For handling page navigation within the app.
+- **CSS/SCSS:** For styling the components and ensuring responsive design.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To get started with the project locally, follow these steps:
 
-### `npm run eject`
+### Prerequisites
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Make sure you have Node.js and npm installed on your machine.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Steps
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. **Clone the repository:**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+   ```bash
+   git clone https://github.com/your-username/bite-delight.git
+   ```
 
-## Learn More
+2. **Navigate to the project directory:**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```bash
+   cd bite-delight
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. **Install the dependencies:**
 
-### Code Splitting
+   ```bash
+   npm install
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4. **Start the development server:**
 
-### Analyzing the Bundle Size
+   ```bash
+   npm start
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+5. **Open the website:**
 
-### Making a Progressive Web App
+   Once the development server is running, open your browser and navigate to:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+   ```
+   http://localhost:3000
+   ```
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The project can be deployed using platforms like Vercel, Netlify, or GitHub Pages.
 
-### `npm run build` fails to minify
+1. **Build the project:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   ```bash
+   npm run build
+   ```
+
+2. **Deploy the `build/` directory to your chosen hosting service.**
+
